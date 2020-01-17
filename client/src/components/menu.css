@@ -1,0 +1,21 @@
+.li2 li{
+    display: inline-block; 
+}
+.li2 {
+    float: left;
+    padding-left: 5px;
+}
+.link-button {   
+    background-color: #ffffff;
+    border: 1px solid #000000;
+    color: #000000;
+    outline: medium none;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    text-decoration: none;
+}
+.link-button:active {
+    background-color: #585858;
+}

@@ -1,0 +1,21 @@
+.map-button {
+  width: 100px;
+}
+.map1 {
+  fill: #ECEFF1;
+  stroke: #607D8B;
+  stroke-width: 0.75;
+  outline: none;
+}
+.map1:hover {
+  fill: #607D8B;
+  stroke: #607D8B;
+  stroke-width: 0.75;
+  outline: none;
+}
+.map1:active {
+  fill: #FF5722;
+  stroke: #607D8B;
+  stroke-width: 0.75;
+  outline: none;
+}

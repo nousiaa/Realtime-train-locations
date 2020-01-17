@@ -1,0 +1,3 @@
+rm serverDB.db
+sqlite3 serverDB.db < init.sql
+sqlite3 serverDB.db < data.sql
